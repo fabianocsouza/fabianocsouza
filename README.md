@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 <img align="right" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="350"/>
 <br/>
-<h1 align="center">Hi 👋, I'm Fabiano C Souza! Welcome to my profile!</h1>
+<h1 align="center">Hi 👋, I'm Fabiano C. Souza! Welcome to my profile!</h1>
 
 - 🚀 [![Linkedin Badge](https://img.shields.io/badge/-Fabiano%20Souza-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fabiano-souza-62b01441/)](https://www.linkedin.com/in/fabiano-souza-62b01441 )
 - ✨ Learning is continuous and there will always be a next level
