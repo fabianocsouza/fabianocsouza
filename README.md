@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi 👋, I'm Fabiano C. Souza! </h1>
-<h2 align="center">Welcome to my profile!</h2>
+<h1>Hi 👋, I'm Fabiano C. Souza! </h1>
+<h2>Welcome to my profile!</h2>
 
 - 🚀 [![Linkedin Badge](https://img.shields.io/badge/-Fabiano%20Souza-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fabiano-souza-62b01441/)](https://www.linkedin.com/in/fabiano-souza-62b01441 )
 - ✨ Learning is continuous and there will always be a next level
